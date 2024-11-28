@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "atlite"
-dynamic = ["version"]
+version = "0.3.0"
 description = "Library for fetching and converting weather data to power systems data"
 readme = "README.rst"
 authors=[{name = "Contributors to atlite", email = "jonas.hoersch@posteo.de"}]
